@@ -1,0 +1,53 @@
+module.exports={
+getProjectsList(){
+return[{
+    id:1,
+    title:"Project1",
+    category:"To_do"
+},{
+    id:2,
+    title:"Project2",
+    category:"To_do"
+},{
+    id:3,
+    title:"Project3",
+    category:"To_do"
+},{
+    id:4,
+    title:"Project4",
+    category:"To_do"
+},{
+    id:5,
+    title:"Project5",
+    category:"In_Process"
+},{
+    id:6,
+    title:"Project6",
+    category:"In_Process"
+},{
+    id:7,
+    title:"Project7",
+    category:"In_Process"
+},{
+    id:8,
+    title:"Project8",
+    category:"Done"
+},{
+    id:9,
+    title:"Project9",
+    category:"Done"
+},{
+    id:10,
+    title:"Project10",
+    category:"Done"
+},{
+    id:11,
+    title:"Project11",
+    category:"Done"
+},{
+    id:1,
+    title:"Project12",
+    category:"Done"
+}]
+}
+};

@@ -1,0 +1,40 @@
+div.project_header{font-size: 2em;
+    font-weight: 700;
+    background: #808080;
+    color: #ffffff;
+    display: block;
+    padding: 15pt 10pt;
+    margin-bottom: 3px;}
+div.project_list_01{
+    font-size: 10pt;
+    font-weight: 700;
+    background: #ffffff;
+    color: #333333;
+    display: block;
+    padding: 10pt 5pt;
+    margin-bottom: 3px;}
+    span.text_01{    font-size: 10pt;
+    font-weight: 700;
+    color: #333333;
+    padding: 2pt 30pt 2pt 5pt;}
+
+span.box_01{ 
+        text-align: center;
+        font-size: 10pt;
+    position: absolute;
+    right: 31px;
+    background: #ffffff;
+    color: #333333;
+    padding: 5pt;
+   }
+  span.box_02 {
+    text-align: center;
+    font-size: 10pt;
+    background: #ffffff;
+    color: #333333;
+    padding: 5pt;
+    display: inline-block;
+    margin: 5px;font-weight: 700;
+}
+   span.project_t_01{    color: #838083;
+    font-size: 9pt;}
